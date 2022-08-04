@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 6,
+  "data": [
+    {
+      "Nombre": "Netflix",
+      "URL": "https://www.netflix.com/es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1198px-Netflix_2015_logo.svg.png?20190206123158"
+    },
+    {
+      "Nombre": "PlutoTV",
+      "URL": "https://pluto.tv/es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png"
+    },
+    {
+      "Nombre": "Prime Video",
+      "URL": "https://www.primevideo.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png"
+    },
+    {
+      "Nombre": "HBO Max",
+      "URL": "https://www.hbomax.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1197px-HBO_Max_Logo.svg.png?20210613093638"
+    },
+    {
+      "Nombre": "Disney+",
+      "URL": "https://www.disneyplus.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022what" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/768px-Disney%2B_logo.svg.png?20220129033317"
+    },
+    {
+      "Nombre": "ARTE",
+      "URL": "https://www.arte.tv/es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022tele" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/512px-Arte-Logo.svg.png?20130820205411"
+    }
+  ]
+}

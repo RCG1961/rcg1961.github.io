@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 6,
+  "data": [
+    {
+      "Nombre": "Booking",
+      "URL": "https://www.booking.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://www.logo.wine/a/logo/Booking.com/Booking.com-Logo.wine.svg"
+    },
+    {
+      "Nombre": "Tripadvisor",
+      "URL": "https://www.tripadvisor.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg"
+    },
+    {
+      "Nombre": "Trivago",
+      "URL": "https://www.trivago.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://seekvectorlogo.com/wp-content/uploads/2020/11/trivago-vector-logo.png"
+    },
+    {
+      "Nombre": "logitravel",
+      "URL": "https://www.logitravel.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://cdn.logitravel.com/comun/images/logos/svg/logitravel.svg?jpegQuality=80"
+    },
+    {
+      "Nombre": "Edreams",
+      "URL": "https://www.edreams.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022what" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/84/EDreams_logo.svg/1200px-EDreams_logo.svg.png?20180621224912"
+    },
+    {
+      "Nombre": "Atrapalo",
+      "URL": "https://www.atrapalo.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022tele" ,
+      "logo":"https://seeklogo.com/images/A/atrapalo-logo-0686EC135F-seeklogo.com.png"
+    }
+  ]
+}

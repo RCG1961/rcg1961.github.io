@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 6,
+  "data": [
+    {
+      "Nombre": "Amazon",
+      "URL": "https://www.amazon.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"
+    },
+    {
+      "Nombre": "Ebay",
+      "URL": "https://www.ebay.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://www.vectorlogo.zone/logos/ebay/ebay-ar21.svg"
+    },
+    {
+      "Nombre": "AliExpress",
+      "URL": "https://www.aliexpress.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://www.vectorlogo.zone/logos/aliexpress/aliexpress-ar21.svg"
+    },
+    {
+      "Nombre": "BestBuy",
+      "URL": "https://www.bestbuy.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Best_Buy_logo_2018.svg/1200px-Best_Buy_logo_2018.svg.png?20180608035723"
+    },
+    {
+      "Nombre": "Rakuten",
+      "URL": "https://rakuten.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022what" ,
+      "logo":"https://rakuten.es/resources/icons/rakuten/rakuten.svg"
+    },
+    {
+      "Nombre": "Wallappop",
+      "URL": "https://es.wallapop.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022tele" ,
+      "logo":"https://www.vectorlogo.es/wp-content/uploads/2019/10/logo-vector-wallapop.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 6,
+  "data": [
+    {
+      "Nombre": "La Vanguardia",
+      "URL": "https://www.lavanguardia.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Vanguardia_%28cabecera%29.svg/1200px-La_Vanguardia_%28cabecera%29.svg.png?20190913193516"
+    },
+    {
+      "Nombre": "20 minutos",
+      "URL": "https://www.20minutos.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_20minutos.svg/360px-Logo_20minutos.svg.png"
+    },
+    {
+      "Nombre": "El Pais",
+      "URL": "https://elpais.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://static.elpais.com/dist/resources/images/logos/primary/el-pais.svg"
+    },
+    {
+      "Nombre": "El Mundo Deportivo",
+      "URL": "https://www.mundodeportivo.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MundoDeportivo.svg/768px-MundoDeportivo.svg.png?20210226102115"
+    },
+    {
+      "Nombre": "Sport",
+      "URL": "https://www.sport.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022what" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/600px-Logo_Sport.svg.png"
+    },
+    {
+      "Nombre": "Marca",
+      "URL": "https://www.marca.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022tele" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Marca.svg/840px-Marca.svg.png"
+    }
+  ]
+}

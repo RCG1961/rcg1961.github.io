@@ -1,0 +1,49 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 6,
+  "data": [
+    {
+      "Nombre": "Tinder",
+      "URL": "https://tinder.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-White-Logo.wine.svg"
+    },
+    {
+      "Nombre": "Badoo",
+      "URL": "https://badoo.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Badoo_logo.svg/120px-Badoo_logo.svg.png"
+    },
+    {
+      "Nombre": "Meetic",
+      "URL": "https://www.meetic.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://www.vectorlogo.es/wp-content/uploads/2019/10/logo-vector-meetic.jpg"
+    },
+    {
+      "Nombre": "Edarling",
+      "URL": "https://www.edarling.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://worldvectorlogo.com/download/edarling.svg"
+    },
+    {
+      "Nombre": "Be2",
+      "URL": "https://www.be2.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022what" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Be2-logo-300px.png?20180525150812"
+    },
+    {
+      "Nombre": "Ashley Madison",
+      "URL": "https://www.ashleyrnadison.com/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022tele" ,
+      "logo":"https://logovectordl.com/wp-content/uploads/2021/10/ashley-madison-logo-vector.png"
+    }
+  ]
+}

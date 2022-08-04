@@ -1,0 +1,35 @@
+{
+  "status": "OK",
+  "code": 200,
+  "total": 4,
+  "data": [
+    {
+      "Nombre": "Mercadona",
+      "URL": "https://www.mercadona.es/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022face" ,
+      "logo":"https://brandlogos.net/wp-content/uploads/2022/04/mercadona-logo-brandlogos.net_-768x768.png"
+    },
+    {
+      "Nombre": "Alcampo",
+      "URL": "https://www.alcampo.es/compra-online/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022insta" ,
+      "logo":"https://www.alcampo.es/media/images/h2d/h66/9470439555102.png"
+    },
+    {
+      "Nombre": "Consum",
+      "URL": "https://tienda.consum.es/es",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022link" ,
+      "logo":"https://upload.wikimedia.org/wikipedia/ca/thumb/b/b4/Logo_Consum.svg/284px-Logo_Consum.svg.png?20100526015958"
+    },
+    {
+      "Nombre": "Dia",
+      "URL": "https://www.dia.es/compra-online/",
+      "Usuario": "rufus@gmail.com",
+      "Password":"Aptugo_2022twi" ,
+      "logo":"https://www.dia.es/compra-online/_ui/desktop/theme-dia/images/dia/svg/logo-dia-bg-red.svg"
+    }
+  ]
+}
